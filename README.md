@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Implement a code workflow in your build pipeline by using Git and GitHub #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
